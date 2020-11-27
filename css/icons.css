@@ -1,0 +1,118 @@
+.fas,
+.far,
+.fal
+{
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1
+}
+
+.fal
+{
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 300
+}
+
+.fas
+{
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 900
+}
+
+.far
+{
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 400
+}
+
+.fa-edit:before
+{
+    content: "\f044"
+}
+
+.fad.fa-edit:after
+{
+    content: "\10f044"
+}
+
+.fa-circle:before
+{
+    content: "\f111"
+}
+
+.fad.fa-circle:after
+{
+    content: "\10f111"
+}
+
+.fa-comment-alt:before {
+            content: "\f27a"; }
+
+.fad.fa-comment-alt:after
+{
+    content: "\10f27a"
+}
+
+.fa-heart:before
+{
+    content: "\f004"
+}
+
+.fad.fa-heart:after
+{
+    content: "\10f004"
+}
+
+.fa-map-marked:before
+{
+    content: "\f59f"
+}
+
+.fad.fa-map-marked:after
+{
+    content: "\10f59f"
+}
+
+.fa-mobile:before
+{
+    content: "\f10b"
+}
+
+.fad.fa-mobile:after
+{
+    content: "\10f10b"
+}
+
+.fa-envelope:before
+{
+    content: "\f0e0"
+}
+
+.fad.fa-envelope:after
+{
+    content: "\10f0e0"
+}
+                
+.fa-angle-up:before
+{
+    content: "\f106"
+}
+
+.fad.fa-angle-up:after
+{
+    content: "\10f106"
+}
+
+.fa-caret-down:before
+{
+    content: "\f0d7"
+}
+
+.fad.fa-caret-down:after
+{
+    content: "\10f0d7"
+}
